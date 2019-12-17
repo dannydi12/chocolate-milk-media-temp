@@ -5,4 +5,6 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp images $DEPLOYPATH
+    - /bin/cp favicons $DEPLOYPATH
     - /bin/cp sanitize.css $DEPLOYPATH
+    - /bin/cp animate.css $DEPLOYPATH
