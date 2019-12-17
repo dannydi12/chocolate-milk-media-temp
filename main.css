@@ -33,6 +33,12 @@ p {
   margin: 0;
 }
 
+a {
+  text-decoration-color: #9F6D52;
+  color: #9F6D52;
+  font-size: 20px;
+}
+
 main {
   max-width: 800px;
 }
@@ -86,11 +92,6 @@ main {
 address {
   margin-top: 10px;
   font-style: normal;
-}
-
-address>a {
-  text-decoration-color: #9F6D52;
-  color: #9F6D52;
 }
 
 @media (min-width: 800px) {
